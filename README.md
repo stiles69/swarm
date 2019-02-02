@@ -1,4 +1,8 @@
-# Swarm: a Docker-native clustering system
+![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
+
+# Rogue Designs #
+
+## Swarm: a Docker-native clustering system ##
 
 [![GoDoc](https://godoc.org/github.com/docker/swarm?status.png)](https://godoc.org/github.com/docker/swarm)
 [![Jenkins Build Status](https://jenkins.dockerproject.org/view/Swarm/job/Swarm%20Master/badge/icon)](https://jenkins.dockerproject.org/view/Swarm/job/Swarm%20Master/)
